@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Moule Mohanraj
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java,Competitive Programming
-- 💞️ I’m looking to collaborate on Backend Development
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python,DSA,Big Data Concepts
 - 📫 How to reach me moulemohanraj@gmail.com
 
 <!---
